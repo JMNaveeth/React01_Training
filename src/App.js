@@ -11,7 +11,7 @@ const Comp1 = () => {
 
 const comp2 = () => {
   return(
-    <h2>hi</h2>
+    <h2>hi welcome</h2>
   )
 }
 
@@ -19,7 +19,7 @@ function App() {
   return (
  <div className='first_head'>
   <h3>React</h3>
-  <div>native</div>
+  <div>react native</div>
  </div>
   );
 }
