@@ -11,7 +11,7 @@ const Comp1 = () => {
 
 const comp2 = () => {
   return(
-    <h2>hi welcome</h2>
+    <h2>hi welcome to my project</h2>
   )
 }
 
